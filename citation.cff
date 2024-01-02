@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: >-
+  Visualize a text from the Patristic Text Archive on a map
+message: >-
+  If you use these files, please cite it using the
+  metadata from this file. Files licenced CC-BY
+type: dataset
+authors:
+  - given-names: Annette
+    name-particle: von
+    family-names: Stockhausen
+    email: annette.von_stockhausen@bbaw.de
+    affiliation: >-
+      Berlin-Brandenburgische Akademie der
+      Wissenschaften
+    orcid: 'https://orcid.org/0000-0001-5382-6322'
