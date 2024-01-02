@@ -1,1 +1,1 @@
-wget -q -O http://atlantides.org/downloads/pleiades/json/pleiades-places-latest.json.gz | gunzip > pleiades-places-latest.jsonl
+wget -q http://atlantides.org/downloads/pleiades/json/pleiades-places-latest.json.gz | gunzip > pleiades-places-latest.jsonl
